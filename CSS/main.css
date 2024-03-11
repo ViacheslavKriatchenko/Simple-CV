@@ -13,18 +13,26 @@ h1 {
     color: #2f80ed;
     margin-bottom: 0.25em;
 }
+
 h2 {
     color: #333333;
     font-size: 1em;
     margin-top: 0;
     margin-bottom: 1em;
 }
+
 h3 {
     color: #2f80ed;
 }
+
+h4.black {
+    color:black
+}
+
 a {
     color:#2f80ed
 }
+
 section {
     margin-bottom: 3em;
 }
@@ -32,9 +40,11 @@ section {
     max-width: 900px;
     margin: 0 auto;
 }
+
 .contacts {
     margin-bottom: 2em;
 }
+
 .contact {
     display: flex;
 }
