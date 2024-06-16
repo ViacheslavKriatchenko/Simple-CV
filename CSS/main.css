@@ -75,12 +75,12 @@ section {
 }
 
 @media (max-width: 575px) {
-    .description {
+    .description .skills{
         display: block;
     }
 }
 
-.description {
+.description .skills{
     display: flex;
     max-width: 750px;
 }
