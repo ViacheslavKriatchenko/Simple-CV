@@ -41,6 +41,11 @@ section {
     margin: 0 auto;
 }
 
+.skills {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
 .contacts {
     margin-bottom: 2em;
 }
@@ -75,12 +80,12 @@ section {
 }
 
 @media (max-width: 575px) {
-    .description .skills{
+    .description {
         display: block;
     }
 }
 
-.description .skills{
+.description {
     display: flex;
     max-width: 750px;
 }
